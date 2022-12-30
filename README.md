@@ -3,7 +3,7 @@
 My name is Leonardo Teixeira and I study software engineering. 
 
 * I'm from Brazil 🇧🇷
-* I'm 19 years old 🎂
+* I'm 20 years old 🎂
 <hr />
 
 <img src = "https://github-readme-stats.vercel.app/api?username=leonardo-tx&show_icons=true&theme=dark" width = 400>
